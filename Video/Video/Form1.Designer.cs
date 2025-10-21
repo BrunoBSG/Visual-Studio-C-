@@ -29,91 +29,92 @@
         private void InitializeComponent()
         {
             this.panel1 = new System.Windows.Forms.Panel();
-            this.panellogo = new System.Windows.Forms.Panel();
-            this.btnProducts = new System.Windows.Forms.Button();
-            this.buttonOrders = new System.Windows.Forms.Button();
-            this.buttonCustumer = new System.Windows.Forms.Button();
+            this.panelLogo = new System.Windows.Forms.Panel();
+            this.button1 = new System.Windows.Forms.Button();
+            this.buttonOrdens = new System.Windows.Forms.Button();
+            this.buttonCustomer = new System.Windows.Forms.Button();
             this.buttonReporting = new System.Windows.Forms.Button();
             this.buttonNotifications = new System.Windows.Forms.Button();
-            this.buttonsettings = new System.Windows.Forms.Button();
+            this.buttonSetting = new System.Windows.Forms.Button();
             this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(51)))), ((int)(((byte)(51)))), ((int)(((byte)(76)))));
-            this.panel1.Controls.Add(this.buttonsettings);
+            this.panel1.Controls.Add(this.buttonSetting);
             this.panel1.Controls.Add(this.buttonNotifications);
             this.panel1.Controls.Add(this.buttonReporting);
-            this.panel1.Controls.Add(this.buttonCustumer);
-            this.panel1.Controls.Add(this.buttonOrders);
-            this.panel1.Controls.Add(this.btnProducts);
-            this.panel1.Controls.Add(this.panellogo);
+            this.panel1.Controls.Add(this.buttonCustomer);
+            this.panel1.Controls.Add(this.buttonOrdens);
+            this.panel1.Controls.Add(this.button1);
+            this.panel1.Controls.Add(this.panelLogo);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(220, 548);
+            this.panel1.Size = new System.Drawing.Size(220, 493);
             this.panel1.TabIndex = 0;
             // 
-            // panellogo
+            // panelLogo
             // 
-            this.panellogo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(58)))));
-            this.panellogo.Dock = System.Windows.Forms.DockStyle.Top;
-            this.panellogo.Location = new System.Drawing.Point(0, 0);
-            this.panellogo.Name = "panellogo";
-            this.panellogo.Size = new System.Drawing.Size(220, 75);
-            this.panellogo.TabIndex = 0;
+            this.panelLogo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(39)))), ((int)(((byte)(39)))), ((int)(((byte)(58)))));
+            this.panelLogo.Dock = System.Windows.Forms.DockStyle.Top;
+            this.panelLogo.Location = new System.Drawing.Point(0, 0);
+            this.panelLogo.Name = "panelLogo";
+            this.panelLogo.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.panelLogo.Size = new System.Drawing.Size(220, 80);
+            this.panelLogo.TabIndex = 1;
             // 
-            // btnProducts
+            // button1
             // 
-            this.btnProducts.Dock = System.Windows.Forms.DockStyle.Top;
-            this.btnProducts.FlatAppearance.BorderSize = 0;
-            this.btnProducts.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnProducts.ForeColor = System.Drawing.Color.Gainsboro;
-            this.btnProducts.Image = global::Video.Properties.Resources.icons8_carrinho_32;
-            this.btnProducts.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnProducts.Location = new System.Drawing.Point(0, 75);
-            this.btnProducts.Name = "btnProducts";
-            this.btnProducts.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
-            this.btnProducts.Size = new System.Drawing.Size(220, 60);
-            this.btnProducts.TabIndex = 1;
-            this.btnProducts.Text = "Products";
-            this.btnProducts.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.btnProducts.UseVisualStyleBackColor = true;
+            this.button1.Dock = System.Windows.Forms.DockStyle.Top;
+            this.button1.FlatAppearance.BorderSize = 0;
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.ForeColor = System.Drawing.Color.Gainsboro;
+            this.button1.Image = global::Video.Properties.Resources.icons8_carrinho_48;
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(0, 80);
+            this.button1.Name = "button1";
+            this.button1.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.button1.Size = new System.Drawing.Size(220, 60);
+            this.button1.TabIndex = 1;
+            this.button1.Text = "Products";
+            this.button1.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.button1.UseVisualStyleBackColor = true;
             // 
-            // buttonOrders
+            // buttonOrdens
             // 
-            this.buttonOrders.Dock = System.Windows.Forms.DockStyle.Top;
-            this.buttonOrders.FlatAppearance.BorderSize = 0;
-            this.buttonOrders.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonOrders.ForeColor = System.Drawing.Color.Gainsboro;
-            this.buttonOrders.Image = global::Video.Properties.Resources.icons8_passar_24;
-            this.buttonOrders.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.buttonOrders.Location = new System.Drawing.Point(0, 135);
-            this.buttonOrders.Name = "buttonOrders";
-            this.buttonOrders.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
-            this.buttonOrders.Size = new System.Drawing.Size(220, 60);
-            this.buttonOrders.TabIndex = 2;
-            this.buttonOrders.Text = "Orders";
-            this.buttonOrders.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.buttonOrders.UseVisualStyleBackColor = true;
+            this.buttonOrdens.Dock = System.Windows.Forms.DockStyle.Top;
+            this.buttonOrdens.FlatAppearance.BorderSize = 0;
+            this.buttonOrdens.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonOrdens.ForeColor = System.Drawing.Color.Gainsboro;
+            this.buttonOrdens.Image = global::Video.Properties.Resources.icons8_lista_de_tarefas_48;
+            this.buttonOrdens.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.buttonOrdens.Location = new System.Drawing.Point(0, 140);
+            this.buttonOrdens.Name = "buttonOrdens";
+            this.buttonOrdens.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.buttonOrdens.Size = new System.Drawing.Size(220, 60);
+            this.buttonOrdens.TabIndex = 2;
+            this.buttonOrdens.Text = "Ordens";
+            this.buttonOrdens.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.buttonOrdens.UseVisualStyleBackColor = true;
             // 
-            // buttonCustumer
+            // buttonCustomer
             // 
-            this.buttonCustumer.Dock = System.Windows.Forms.DockStyle.Top;
-            this.buttonCustumer.FlatAppearance.BorderSize = 0;
-            this.buttonCustumer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonCustumer.ForeColor = System.Drawing.Color.Gainsboro;
-            this.buttonCustumer.Image = global::Video.Properties.Resources.icons8_carrinho_32;
-            this.buttonCustumer.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.buttonCustumer.Location = new System.Drawing.Point(0, 195);
-            this.buttonCustumer.Name = "buttonCustumer";
-            this.buttonCustumer.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
-            this.buttonCustumer.Size = new System.Drawing.Size(220, 60);
-            this.buttonCustumer.TabIndex = 3;
-            this.buttonCustumer.Text = "Custumer";
-            this.buttonCustumer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.buttonCustumer.UseVisualStyleBackColor = true;
+            this.buttonCustomer.Dock = System.Windows.Forms.DockStyle.Top;
+            this.buttonCustomer.FlatAppearance.BorderSize = 0;
+            this.buttonCustomer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonCustomer.ForeColor = System.Drawing.Color.Gainsboro;
+            this.buttonCustomer.Image = global::Video.Properties.Resources.icons8_usuário_de_gênero_neutro_50;
+            this.buttonCustomer.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.buttonCustomer.Location = new System.Drawing.Point(0, 200);
+            this.buttonCustomer.Name = "buttonCustomer";
+            this.buttonCustomer.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.buttonCustomer.Size = new System.Drawing.Size(220, 60);
+            this.buttonCustomer.TabIndex = 3;
+            this.buttonCustomer.Text = "Customer";
+            this.buttonCustomer.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.buttonCustomer.UseVisualStyleBackColor = true;
             // 
             // buttonReporting
             // 
@@ -121,9 +122,9 @@
             this.buttonReporting.FlatAppearance.BorderSize = 0;
             this.buttonReporting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonReporting.ForeColor = System.Drawing.Color.Gainsboro;
-            this.buttonReporting.Image = global::Video.Properties.Resources.icons8_carrinho_32;
+            this.buttonReporting.Image = global::Video.Properties.Resources.icons8_carrinho_48;
             this.buttonReporting.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.buttonReporting.Location = new System.Drawing.Point(0, 255);
+            this.buttonReporting.Location = new System.Drawing.Point(0, 260);
             this.buttonReporting.Name = "buttonReporting";
             this.buttonReporting.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
             this.buttonReporting.Size = new System.Drawing.Size(220, 60);
@@ -138,9 +139,9 @@
             this.buttonNotifications.FlatAppearance.BorderSize = 0;
             this.buttonNotifications.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.buttonNotifications.ForeColor = System.Drawing.Color.Gainsboro;
-            this.buttonNotifications.Image = global::Video.Properties.Resources.icons8_campainha_24;
+            this.buttonNotifications.Image = global::Video.Properties.Resources.icons8_sino_50;
             this.buttonNotifications.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.buttonNotifications.Location = new System.Drawing.Point(0, 315);
+            this.buttonNotifications.Location = new System.Drawing.Point(0, 320);
             this.buttonNotifications.Name = "buttonNotifications";
             this.buttonNotifications.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
             this.buttonNotifications.Size = new System.Drawing.Size(220, 60);
@@ -149,31 +150,32 @@
             this.buttonNotifications.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
             this.buttonNotifications.UseVisualStyleBackColor = true;
             // 
-            // buttonsettings
+            // buttonSetting
             // 
-            this.buttonsettings.Dock = System.Windows.Forms.DockStyle.Top;
-            this.buttonsettings.FlatAppearance.BorderSize = 0;
-            this.buttonsettings.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.buttonsettings.ForeColor = System.Drawing.Color.Gainsboro;
-            this.buttonsettings.Image = global::Video.Properties.Resources.icons8_settings_32;
-            this.buttonsettings.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.buttonsettings.Location = new System.Drawing.Point(0, 375);
-            this.buttonsettings.Name = "buttonsettings";
-            this.buttonsettings.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
-            this.buttonsettings.Size = new System.Drawing.Size(220, 60);
-            this.buttonsettings.TabIndex = 6;
-            this.buttonsettings.Text = "Setting";
-            this.buttonsettings.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.buttonsettings.UseVisualStyleBackColor = true;
+            this.buttonSetting.Dock = System.Windows.Forms.DockStyle.Top;
+            this.buttonSetting.FlatAppearance.BorderSize = 0;
+            this.buttonSetting.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.buttonSetting.ForeColor = System.Drawing.Color.Gainsboro;
+            this.buttonSetting.Image = global::Video.Properties.Resources.icons8_configurações_50;
+            this.buttonSetting.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.buttonSetting.Location = new System.Drawing.Point(0, 380);
+            this.buttonSetting.Name = "buttonSetting";
+            this.buttonSetting.Padding = new System.Windows.Forms.Padding(12, 0, 0, 0);
+            this.buttonSetting.Size = new System.Drawing.Size(220, 60);
+            this.buttonSetting.TabIndex = 6;
+            this.buttonSetting.Text = "Setting";
+            this.buttonSetting.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.buttonSetting.UseVisualStyleBackColor = true;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(859, 548);
+            this.ClientSize = new System.Drawing.Size(821, 493);
             this.Controls.Add(this.panel1);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "|";
+            this.Load += new System.EventHandler(this.Form1_Load);
             this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
 
@@ -182,12 +184,12 @@
         #endregion
 
         private Panel panel1;
-        private Button btnProducts;
-        private Panel panellogo;
-        private Button buttonsettings;
+        private Button buttonSetting;
         private Button buttonNotifications;
         private Button buttonReporting;
-        private Button buttonCustumer;
-        private Button buttonOrders;
+        private Button buttonCustomer;
+        private Button buttonOrdens;
+        private Button button1;
+        private Panel panelLogo;
     }
 }

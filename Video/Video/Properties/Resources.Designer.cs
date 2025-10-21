@@ -63,9 +63,9 @@ namespace Video.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _2196_png_860 {
+        internal static System.Drawing.Bitmap icons8_carrinho_48 {
             get {
-                object obj = ResourceManager.GetObject("2196.png_860", resourceCulture);
+                object obj = ResourceManager.GetObject("icons8-carrinho-48", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -73,9 +73,9 @@ namespace Video.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_campainha_24 {
+        internal static System.Drawing.Bitmap icons8_configurações_24 {
             get {
-                object obj = ResourceManager.GetObject("icons8-campainha-24", resourceCulture);
+                object obj = ResourceManager.GetObject("icons8-configurações-24", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -83,9 +83,9 @@ namespace Video.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_carrinho_32 {
+        internal static System.Drawing.Bitmap icons8_configurações_50 {
             get {
-                object obj = ResourceManager.GetObject("icons8-carrinho-32", resourceCulture);
+                object obj = ResourceManager.GetObject("icons8-configurações-50", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -93,9 +93,9 @@ namespace Video.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_lista_de_tarefas_64 {
+        internal static System.Drawing.Bitmap icons8_lista_de_tarefas_48 {
             get {
-                object obj = ResourceManager.GetObject("icons8-lista-de-tarefas-64", resourceCulture);
+                object obj = ResourceManager.GetObject("icons8-lista-de-tarefas-48", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -103,9 +103,9 @@ namespace Video.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_notificações_64 {
+        internal static System.Drawing.Bitmap icons8_sino_50 {
             get {
-                object obj = ResourceManager.GetObject("icons8-notificações-64", resourceCulture);
+                object obj = ResourceManager.GetObject("icons8-sino-50", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -113,19 +113,9 @@ namespace Video.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap icons8_passar_24 {
+        internal static System.Drawing.Bitmap icons8_usuário_de_gênero_neutro_50 {
             get {
-                object obj = ResourceManager.GetObject("icons8-passar-24", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
-            }
-        }
-        
-        /// <summary>
-        ///   Looks up a localized resource of type System.Drawing.Bitmap.
-        /// </summary>
-        internal static System.Drawing.Bitmap icons8_settings_32 {
-            get {
-                object obj = ResourceManager.GetObject("icons8-settings-32", resourceCulture);
+                object obj = ResourceManager.GetObject("icons8-usuário-de-gênero-neutro-50", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

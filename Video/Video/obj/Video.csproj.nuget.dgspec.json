@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Video\\Video\\Video.csproj": {}
+    "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Nova pasta\\Video\\Video\\Video.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Video\\Video\\Video.csproj": {
+    "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Nova pasta\\Video\\Video\\Video.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Video\\Video\\Video.csproj",
+        "projectUniqueName": "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Nova pasta\\Video\\Video\\Video.csproj",
         "projectName": "Video",
-        "projectPath": "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Video\\Video\\Video.csproj",
+        "projectPath": "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Nova pasta\\Video\\Video\\Video.csproj",
         "packagesPath": "C:\\Users\\Senai.CEPEAS21103954\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Video\\Video\\obj\\",
+        "outputPath": "C:\\Users\\Senai.CEPEAS21103954\\Downloads\\Nova pasta\\Video\\Video\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Senai.CEPEAS21103954\\AppData\\Roaming\\NuGet\\NuGet.Config",
