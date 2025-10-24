@@ -1,0 +1,15 @@
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\bin\Debug\net6.0\Calculadora programa.exe
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\bin\Debug\net6.0\Calculadora programa.deps.json
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\bin\Debug\net6.0\Calculadora programa.runtimeconfig.json
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\bin\Debug\net6.0\Calculadora programa.dll
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\bin\Debug\net6.0\Calculadora programa.pdb
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\Calculadora programa.csproj.AssemblyReference.cache
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\Calculadora programa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\Calculadora programa.AssemblyInfoInputs.cache
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\Calculadora programa.AssemblyInfo.cs
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\Calculadora programa.csproj.CoreCompileInputs.cache
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\Calculadora programa.dll
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\refint\Calculadora programa.dll
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\Calculadora programa.pdb
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\Calculadora programa.genruntimeconfig.cache
+D:\Bruno Simões Goulart\Calculadora programa\Calculadora programa\obj\Debug\net6.0\ref\Calculadora programa.dll
