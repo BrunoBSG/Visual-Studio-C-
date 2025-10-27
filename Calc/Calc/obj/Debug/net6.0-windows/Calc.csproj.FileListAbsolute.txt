@@ -1,0 +1,34 @@
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.exe
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.dll
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\bin\Debug\net6.0-windows\Calc.pdb
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.AssemblyReference.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.GenerateResource.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.cs
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.dll
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.pdb
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+C:\Users\Senai.CEPEAS21103954\Downloads\Calc\Calc\obj\Debug\net6.0-windows\ref\Calc.dll
+D:\Bruno Simões Goulart\Calc\Calc\bin\Debug\net6.0-windows\Calc.exe
+D:\Bruno Simões Goulart\Calc\Calc\bin\Debug\net6.0-windows\Calc.deps.json
+D:\Bruno Simões Goulart\Calc\Calc\bin\Debug\net6.0-windows\Calc.runtimeconfig.json
+D:\Bruno Simões Goulart\Calc\Calc\bin\Debug\net6.0-windows\Calc.dll
+D:\Bruno Simões Goulart\Calc\Calc\bin\Debug\net6.0-windows\Calc.pdb
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.AssemblyReference.cache
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.Form1.resources
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.GenerateResource.cache
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfoInputs.cache
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.AssemblyInfo.cs
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.csproj.CoreCompileInputs.cache
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.dll
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\refint\Calc.dll
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.pdb
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\Calc.genruntimeconfig.cache
+D:\Bruno Simões Goulart\Calc\Calc\obj\Debug\net6.0-windows\ref\Calc.dll
