@@ -1,0 +1,18 @@
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\bin\Debug\net6.0-windows\Top Lanches.exe
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\bin\Debug\net6.0-windows\Top Lanches.deps.json
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\bin\Debug\net6.0-windows\Top Lanches.runtimeconfig.json
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\bin\Debug\net6.0-windows\Top Lanches.dll
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\bin\Debug\net6.0-windows\Top Lanches.pdb
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.csproj.AssemblyReference.cache
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top_Lanches.Form1.resources
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.csproj.GenerateResource.cache
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.AssemblyInfoInputs.cache
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.AssemblyInfo.cs
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.csproj.CoreCompileInputs.cache
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.dll
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\refint\Top Lanches.dll
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.pdb
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top Lanches.genruntimeconfig.cache
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\ref\Top Lanches.dll
+D:\Bruno Simões Goulart\Top Lanches\Top Lanches\obj\Debug\net6.0-windows\Top_Lanches.Properties.Resources.resources
