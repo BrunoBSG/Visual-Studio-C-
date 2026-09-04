@@ -1,0 +1,16 @@
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Inicio.resources
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Properties.Resources.resources
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.GenerateResource.cache
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Cadastrar.resources
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ExcluirLivros.resources
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Mostrar.resources
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.RemoverLivros.resources
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe.config
+D:\Projetos\Programação\C#\Biblioteca\Biblioteca\Biblioteca\obj\Debug\Biblioteca.MostrarBank.resources
